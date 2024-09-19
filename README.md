@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amit-lakhera
-- 👀 I’m interested in coding in Java
-- 🌱 I’m currently pursuing BCA course 
+- 👀 My aim is to become a successful Software Developer.
+- 🌱 I’m currently pursuing MCA course 
 - 💞️ I’m looking to grab opportunities
 - 📫 How to reach me - through my github profile. 
 
